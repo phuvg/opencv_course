@@ -1,0 +1,5 @@
+https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+note:
+- use haarcascade_frontalface_default.xml for this coding
+- that means file haar_face.xml is haarcascade_frontalface_default.xml
